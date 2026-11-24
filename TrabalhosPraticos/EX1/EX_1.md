@@ -1,5 +1,5 @@
 Conjunto I
-Deverão realizar três dos seguintes exercícios. Cada um contribuirá com 16,6% (um sexto) para a nota do trabalho. (Caso realizem mais do que três, serão considerados apenas os três melhores.)
+
 
 A. Fases do dia
 Partindo de uma foto original ou de biblioteca, poderão usar ferramentas de correcção de cor e máscaras para adaptar a foto a duas diferentes alturas do dia (ex. final de tarde e day for night).
