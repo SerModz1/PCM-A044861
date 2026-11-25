@@ -46,6 +46,12 @@ FINAL:
 
 <img width="417" height="627" alt="PRINTFINAL" src="https://github.com/user-attachments/assets/63867ed6-8771-480f-b467-41c030c75ac8" />
 
+Alternativa:
+
+<img width="980" height="670" alt="image" src="https://github.com/user-attachments/assets/c4d1789a-bdb2-406d-a1bb-1457ac70d1e1" />
+
+
+
 
 
 
