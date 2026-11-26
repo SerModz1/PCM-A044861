@@ -10,10 +10,27 @@ TARDE
 
 NOITE
 
+ALTERNATIVA 
+<img width="1467" height="776" alt="image" src="https://github.com/user-attachments/assets/4397a69e-91db-4626-9963-0b35bd943254" />
+
+<img width="1492" height="822" alt="EX_A_ALTERNATIVA_F" src="https://github.com/user-attachments/assets/891650fe-8a50-4844-bf82-5d447c01ce09" />
+
+
+
 
 B. Pintura ou ilustração
 Partindo de uma foto original ou de biblioteca, poderão usar filtros, correcção de cor, ferramentas de pintura e máscaras para produzir uma imagem que se assemelhe a uma pintura ou ilustração num dado estilo. Não basta aplicar um único efeito!
 
+<img width="1415" height="787" alt="EX_B_INICIO" src="https://github.com/user-attachments/assets/1eb1f572-e577-46e8-8b3a-82ee432c5605" />
+
+<img width="1365" height="833" alt="EX_B_C1F" src="https://github.com/user-attachments/assets/2d7e3175-610a-42cd-a29c-c95f894a3351" />
+
+
+ALTERNATIVA:
+
+<img width="1110" height="780" alt="EX_B_ALTERNATIVA_ORIGINAL" src="https://github.com/user-attachments/assets/420b97de-4ea4-496c-9ef5-a4839c7372d1" />
+
+<img width="1172" height="772" alt="EX_B_ALTERNATIVA _F" src="https://github.com/user-attachments/assets/6a954d8c-e7bd-46be-aa1e-323939f72a3d" />
 
 
 Conjunto II
