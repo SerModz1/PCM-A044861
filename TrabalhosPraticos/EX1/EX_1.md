@@ -6,9 +6,13 @@ Partindo de uma foto original ou de biblioteca, poderão usar ferramentas de cor
 
 TARDE
 
-<img width="1317" height="527" alt="tarde" src="https://github.com/user-attachments/assets/c7451f51-472f-4fab-94c6-66b05e889b46" />
+<img width="992" height="708" alt="EX_A_FTARDE" src="https://github.com/user-attachments/assets/de4f9300-4e41-4582-a49d-b3269fb9d275" />
+
 
 NOITE
+
+<img width="1072" height="742" alt="EX_A_NOITEF" src="https://github.com/user-attachments/assets/8def53d1-66c8-4e8c-accd-695ce7ce241e" />
+
 
 ALTERNATIVA 
 <img width="1467" height="776" alt="image" src="https://github.com/user-attachments/assets/4397a69e-91db-4626-9963-0b35bd943254" />
