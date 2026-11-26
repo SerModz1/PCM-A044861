@@ -4,6 +4,13 @@ Conjunto I
 A. Fases do dia
 Partindo de uma foto original ou de biblioteca, poderão usar ferramentas de correcção de cor e máscaras para adaptar a foto a duas diferentes alturas do dia (ex. final de tarde e day for night).
 
+ORIGEM:
+https://commons.wikimedia.org/wiki/Commons:Explore/Pictures#/media/File:Villach_Hanns_Gasser_Platz_5_Haupt-Feuerwache_NO-Ansicht_26062018_3677.jpg
+
+<img width="942" height="632" alt="image" src="https://github.com/user-attachments/assets/a9fc30e8-6619-47b8-9093-01846384e1ac" />
+
+
+
 TARDE
 
 <img width="992" height="708" alt="EX_A_FTARDE" src="https://github.com/user-attachments/assets/de4f9300-4e41-4582-a49d-b3269fb9d275" />
