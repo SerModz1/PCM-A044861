@@ -30,7 +30,12 @@ ALTERNATIVA
 
 
 B. Pintura ou ilustração
-Partindo de uma foto original ou de biblioteca, poderão usar filtros, correcção de cor, ferramentas de pintura e máscaras para produzir uma imagem que se assemelhe a uma pintura ou ilustração num dado estilo. Não basta aplicar um único efeito!
+Partindo de uma foto original ou de biblioteca, poderão usar filtros, correcção de cor, ferramentas de pintura e máscaras para produzir uma imagem que se assemelhe a uma pintura ou ilustração num dado estilo. 
+
+https://commons.wikimedia.org/wiki/Commons:Explore/Pictures#/media/File:2015_K%C5%82odzko,_ul._R%C3%B3%C5%BCana_02.JPG
+
+<img width="1147" height="697" alt="image" src="https://github.com/user-attachments/assets/e5c666af-3287-4cea-8e62-1d4f26be4145" />
+
 
 <img width="1415" height="787" alt="EX_B_INICIO" src="https://github.com/user-attachments/assets/1eb1f572-e577-46e8-8b3a-82ee432c5605" />
 
